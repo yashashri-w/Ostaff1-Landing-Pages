@@ -1,0 +1,346 @@
+[
+    {
+        "id": 1,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": "https://www.logolynx.com/images/logolynx/8f/8fde00b149a9516c67e3489b931ace9f.png"
+    },
+    {
+        "id": 2,
+        "fcol": "Hardware Bring-up",
+        "scol": "ABAP Developer",
+        "tcol": "Linux",
+        "img": "https://www.logolynx.com/images/logolynx/8f/8fde00b149a9516c67e3489b931ace9f.png"
+    },
+    {
+        "id": 3,
+        "fcol": "Platform Architecture",
+        "scol": "Android Developer",
+        "tcol": "Unix",
+        "img": "https://www.logolynx.com/images/logolynx/8f/8fde00b149a9516c67e3489b931ace9f.png"
+    },
+    {
+        "id": 4,
+        "fcol": "Platform Design",
+        "scol": "Application Developer",
+        "tcol": "Oracle Solaris",
+        "img": "https://www.logolynx.com/images/logolynx/8f/8fde00b149a9516c67e3489b931ace9f.png"
+    },
+    {
+        "id": 5,
+        "fcol": "Platform Integration",
+        "scol": "Application Developer Analyst",
+        "tcol": "<b>Application Development<b>",
+        "img": "https://www.logolynx.com/images/logolynx/8f/8fde00b149a9516c67e3489b931ace9f.png"
+    },
+    {
+        "id": 6,
+        "fcol": "Platform Management",
+        "scol": "Application Packaging Engineer",
+        "tcol": "C#",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"
+    },
+    {
+        "id": 7,
+        "fcol": "Productization",
+        "scol": "Assistant Manager - Information Systems",
+        "tcol": "VB.NET",
+        "img": "https://www.logolynx.com/images/logolynx/8f/8fde00b149a9516c67e3489b931ace9f.png"
+    },
+    {
+        "id": 8,
+        "fcol": "Proposition Design",
+        "scol": "Automation Tester",
+        "tcol": "Java",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"
+    },
+    {
+        "id": 9,
+        "fcol": "Reference Designs",
+        "scol": "Business Analyst",
+        "tcol": "J2EE",
+        "img": "https://www.nicepng.com/png/detail/854-8546612_java-ee-java-ee-logo-svg.png"
+    },
+    {
+        "id": 10,
+        "fcol": "Technology Change Management",
+        "scol": "Business Objects Administrator",
+        "tcol": "J2ME",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodix.com%2Fj2me&psig=AOvVaw2aYvdmAP5GJJ8Px9_jEcPv&ust=1679977901708000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjb-cKj-_0CFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 11,
+        "fcol": "Technology Platforms",
+        "scol": "Client/Server Programmer",
+        "tcol": "Servlets",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fserver2client.com%2F&psig=AOvVaw3EMZkUWvshb1rjhC8JG4MS&ust=1679977937489000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjAiNSj-_0CFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id":13,
+        "fcol": "Windows Development",
+        "scol": "Cognos Developer",
+        "tcol": "Visual Basic",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-naely&psig=AOvVaw2XOx_bPWRywOp_gJLymqNb&ust=1679977981028000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiXwuij-_0CFQAAAAAdAAAAABAE"
+    },
+    {
+        "id":14,
+        "fcol": "<b>Software & Application Development<b>",
+        "scol": "Cold Fusion Support Developer",
+        "tcol": "Borland C++",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-csqiv&psig=AOvVaw1ZdayV-FXUGzjVSinqUCg3&ust=1679978022418000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi2z_yj-_0CFQAAAAAdAAAAABAE"
+    },
+    {
+        "id":15,
+        "fcol": "Agile Modeling",
+        "scol": "Consultant",
+        "tcol": "Visual C++",
+        "img": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fdomoticx.com%2Fruntime-component-microsoft-visual-c-windows%2F&psig=AOvVaw0jQabp5teWvkbVetqFEEOX&ust=1679978050838000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCXt4qk-_0CFQAAAAAdAAAAABAP"
+    },
+    {
+        "id":16,
+        "fcol": "Agile Project Management",
+        "scol": "Content Engineer",
+        "tcol": "C",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw3zDhN-_EfvbTb3k7-8zmW2&ust=1679978252251000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPja2-qk-_0CFQAAAAAdAAAAABAE"
+    },
+    {
+        "id":17,
+        "fcol": "Appcelerator",
+        "scol": "Content Researcher",
+        "tcol": "MFC",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXuSwIEeCwh3b-1U-FiJfkFfvyyuJOZ_S6D0ZYLjhUUnpgiGEoaPcn_9JsE2vMPjFx7KY&usqp=CAU"
+    },
+    {
+        "id":18,
+        "fcol": "Application Architecture",
+        "scol": "Content Writer",
+        "tcol": "ATL",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.guidetolearn.com%2Fc-component-development-using-the-active-template-library-30-functional-specification&psig=AOvVaw33kBub2Ank7igcGM-D5lGT&ust=1679982171739000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCGsbaz-_0CFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id":19,
+        "fcol": "Application Migrations",
+        "scol": "CRM Application Administrator",
+        "tcol": "Mobile Development",
+        "img": ""
+    },
+    {
+        "id":20,
+        "fcol": "Application Support Services",
+        "scol": "CRM Application Architect",
+        "tcol": "iPhone/iOS",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQefPw0cYyxDBNKzi26_jQl8qfJ-ENyL6VNL1z-VlmC&s"
+    },
+    {
+        "id":21,
+        "fcol": "Applications Development Management",
+        "scol": "CRM Business Data Analyst",
+        "tcol": "Android",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fandroid-logo%2F&psig=AOvVaw1AAT6cjmRPiliF5cRJd-kD&ust=1679982261235000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCb8uCz-_0CFQAAAAAdAAAAABAE"
+    },
+    {
+        "id":22,
+        "fcol": "Continuous Integration",
+        "scol": "CRM Integration Specialist",
+        "tcol": "Blackberry",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fblackberry-logo%2F&psig=AOvVaw3h8tZuzOw76_9WKoxvlCf2&ust=1679982280023000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPie6Omz-_0CFQAAAAAdAAAAABAE"
+    },
+    {
+        "id":23,
+        "fcol": "Database-driven Web Applications",
+        "scol": "CRM Program Director",
+        "tcol": "Windows Mobile",
+        "img": ""
+    },
+    {
+        "id":24,
+        "fcol": "Desktop Application Design",
+        "scol": "CRM Targeted Marketing Campaign Manager",
+        "tcol": "Symbian",
+        "img": ""
+    },
+    {
+        "id":25,
+        "fcol": "Distributed Applications",
+        "scol": "Crystal Report Developer",
+        "tcol": "Qt",
+        "img": "http://s3-eu-west-1.amazonaws.com/qt-files/logos/Qt-logo-large.png"
+    },
+    {
+        "id":26,
+        "fcol": "Distributed Development",
+        "scol": "Data Analyst",
+        "tcol": "<b>Big Data/Distributed Systems<b>",
+        "img": ""
+    },
+    {
+        "id":27,
+        "fcol": "iSeries Development",
+        "scol": "Data Architect",
+        "tcol": "NoSQL",
+        "img": "https://images.ctfassets.net/po4qc9xpmpuh/3DXFDcf1EO2D7mwb2r7RTM/62e5c1b9a070d21a0288d9dc9148a914/nosql.png"
+    },
+    {
+        "id": 28,
+        "fcol": "Large Scale System Integration",
+        "scol": "Data Entry Operator",
+        "tcol": "Hadoop",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHadoop-logo-new.pdf&psig=AOvVaw3uUhWiHmBBu9cUu12REoRb&ust=1679982611938000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiLkIm1-_0CFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 29,
+        "fcol": "Multithreaded Application Development",
+        "scol": "Data Modeler",
+        "tcol": "Hive",
+        "img": "https://hive.apache.org/images/hive.svg"
+    },
+    {
+        "id":30,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id":31,
+        "fcol": "Appcelerator",
+        "scol": "Content Researcher",
+        "tcol": "MFC",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXuSwIEeCwh3b-1U-FiJfkFfvyyuJOZ_S6D0ZYLjhUUnpgiGEoaPcn_9JsE2vMPjFx7KY&usqp=CAU"
+    },
+    {
+        "id": 32,
+        "fcol": "Application Architecture",
+        "scol": "Content Writer",
+        "tcol": "ATL",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.guidetolearn.com%2Fc-component-development-using-the-active-template-library-30-functional-specification&psig=AOvVaw33kBub2Ank7igcGM-D5lGT&ust=1679982171739000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCGsbaz-_0CFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "fcol": "Extensibility",
+        "scol": "ABAP Developer",
+        "tcol": "Windows",
+        "img": ""
+    }
+
+]

@@ -1,0 +1,355 @@
+[
+{
+    "id":1,
+    "fcol":"Logo Design",
+    "scol":"Graphic Designer",
+    "tcol":"Adobe Photoshop",
+    "img":"https://logowik.com/content/uploads/images/adobe-photoshop-cc3131.jpg"
+},
+{
+    "id":2,
+    "fcol":"Branding and Identity Design",
+    "scol":"Art Director",
+    "tcol":"Adobe Illustrator",
+    "img":"https://logowik.com/content/uploads/images/adobe-photoshop-cc3131.jpg"
+},
+{
+    "id":3,
+    "fcol":"Packaging Design",
+    "scol":"Creative Director",
+    "tcol":"Adobe InDesign",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png"
+},
+{
+    "id":4,
+    "fcol":"Print Design",
+    "scol":"Brand Designer",
+    "tcol":"Adobe XD",
+    "img":"https://logowik.com/content/uploads/images/adobe-photoshop-cc3131.jpg"
+},
+{
+    "id":5,
+    "fcol":"Web Design",
+    "scol":"Visual Designer",
+    "tcol":"Adobe Premiere Pro",
+    "img":"https://images.app.goo.gl/snWMSUG9NuhHtAU98"
+},
+{
+    "id":6,
+    "fcol":"UI/UX Design",
+    "scol":"User Experience (UX) Designer",
+    "tcol":"Adobe After Effects",
+    "img":"https://images.app.goo.gl/QCEE5crNU76NNciv7"
+},
+{
+    "id":7,
+    "fcol":"Mobile App Design",
+    "scol":"User Interface (UI) Designer",
+    "tcol":"Sketch",
+    "img":"https://images.app.goo.gl/S1tCV8VJRbZFhDTz7"
+},
+{
+    "id":8,
+    "fcol":"E-commerce Website Design",
+    "scol":"Web Designer",
+    "tcol":"Figma",
+    "img":"https://images.app.goo.gl/sMDW2kL3Cx9z98G2A"
+},
+{
+    "id":9,
+    "fcol":"Social Media Design",
+    "scol":"Mobile App Designer",
+    "tcol":"Canva",
+    "img":"https://images.app.goo.gl/CirthADrnqBrwj6F8"
+},
+{
+    "id":10,
+    "fcol":"Email Newsletter Design",
+    "scol":"E-commerce Designer",
+    "tcol":"CorelDRAW",
+    "img":"https://images.app.goo.gl/uLzJj8T2ArDqNRB76"
+},
+{
+    "id":11,
+    "fcol":"Infographic Design",
+    "scol":"Social Media Designer",
+    "tcol":"GIMP",
+    "img":"https://images.app.goo.gl/V8QidbUNZoqdeyS67"
+},
+{
+    "id":12,
+    "fcol":"Brochure Design",
+    "scol":"Email Designer",
+    "tcol":"Inkscape",
+    "img":"https://images.app.goo.gl/p24v1Wz8YJPU6vjW9"
+},
+{
+    "id":13,
+    "fcol":"Catalog Design",
+    "scol":"Infographic Designer",
+    "tcol":"Affinity Designer",
+    "img":"https://images.app.goo.gl/ywfsgjMebpNWwijq6"
+},
+{
+    "id":14,
+    "fcol":"Magazine Layout Design",
+    "scol":"Print Designer",
+    "tcol":"Affinity Photo",
+    "img":"https://images.app.goo.gl/ezCSoDMxzh6keaR28"
+},
+{
+    "id":15,
+    "fcol":"Book Cover Design",
+    "scol":"Packaging Designer",
+    "tcol":"Affinity Publisher",
+    "img":"https://images.app.goo.gl/kxLNfEdBoJso544S7"
+},
+{
+    "id":16,
+    "fcol":"Interior Book Design",
+    "scol":"Magazine Designer",
+    "tcol":"Procreate",
+    "img":"https://images.app.goo.gl/ouZ61i9E7vfWM1QY6"
+},
+{
+    "id":17,
+    "fcol":"Flyer Design",
+    "scol":"Book Designer",
+    "tcol":"Blender",
+    "img":"https://images.app.goo.gl/vPiFseZCs7ekk4qT7"
+},
+{
+    "id":18,
+    "fcol":"Poster Design",
+    "scol":"Brochure Designer",
+    "tcol":"Autodesk 3ds Max",
+    "img":"https://images.app.goo.gl/rJ2odrL1T1ED9JrZ6"
+},
+{
+    "id":19,
+    "fcol":"Billboard Design",
+    "scol":"Catalog Designer",
+    "tcol":"Autodesk Maya",
+    "img":"https://images.app.goo.gl/pRMAycySfrFiB7o6A"
+},
+{
+    "id":20,
+    "fcol":"Trade Show Booth Design",
+    "scol":"Flyer Designer",
+    "tcol":"QuarkXPress",
+    "img":"https://images.app.goo.gl/HFHQ8J3SfEhhBbdbA"
+},
+{
+    "id":21,
+    "fcol":"Business Card Design",
+    "scol":"Poster Designer",
+    "tcol":"Microsoft Publisher",
+    "img":"https://images.app.goo.gl/dah9CTe4tHjPWAvm8"
+},
+{
+    "id":22,
+    "fcol":"Letterhead Design",
+    "scol":"Billboard Designer",
+    "tcol":"Microsoft PowerPoint",
+    "img":"https://images.app.goo.gl/2iNC972PerVzPDN19"
+},
+{
+    "id":23,
+    "fcol":"Envelope Design",
+    "scol":"Trade Show Designer",
+    "tcol":"Microsoft Word",
+    "img":"https://images.app.goo.gl/UrFANCquLoe75mkJ7"
+},
+{
+    "id":24,
+    "fcol":"Invitation Design",
+    "scol":"Business Card Designer",
+    "tcol":"Google Docs",
+    "img":"https://images.app.goo.gl/6QnGfPSjR3CER7uw5"
+},
+{
+    "id":25,
+    "fcol":"Menu Design",
+    "scol":"Letterhead Designer",
+    "tcol":"Google Slides",
+    "img":"https://images.app.goo.gl/zcgLEnBzLc5byq6F7"
+},
+{
+    "id":26,
+    "fcol":"T-shirt Design",
+    "scol":"Envelope Designer",
+    "tcol":"Google Sheets",
+    "img":"https://images.app.goo.gl/bdf1cZsy2pYQ8Jjk7"
+},
+{
+    "id":27,
+    "fcol":"Sticker Design",
+    "scol":"Invitation Designer",
+    "tcol":"WordPress",
+    "img":"https://images.app.goo.gl/mS7UPnnRZHHYT75K6"
+},
+{
+    "id":28,
+    "fcol":"Car Wrap Design",
+    "scol":"Menu Designer",
+    "tcol":"Squarespace",
+    "img":"https://images.app.goo.gl/DRoy8ez5ttJZWzJm9"
+},
+{
+    "id":29,
+    "fcol":"Signage Design",
+    "scol":"T-shirt Designer",
+    "tcol":"Wix",
+    "img":"https://images.app.goo.gl/yYB9CWC6JuVuRsxH6"
+},
+{
+    "id":30,
+    "fcol":"Product Label Design",
+    "scol":"Sticker Designer",
+    "tcol":"Shopify",
+    "img":"https://images.app.goo.gl/5SMA4p71WLeUS8Cr6"
+},
+{
+    "id":31,
+    "fcol":"Photo Retouching and Editing",
+    "scol":"Car Wrap Designer",
+    "tcol":"Magento",
+    "img":"https://images.app.goo.gl/jHosQqEFQ7YKwnYE6"
+},
+{
+    "id":32,
+    "fcol":"Image Manipulation",
+    "scol":"Signage Designer",
+    "tcol":"WooCommerce",
+    "img":"https://images.app.goo.gl/3M3ueJpkc95UKbD27"
+},
+{
+    "id":33,
+    "fcol":"Illustration",
+    "scol":"Label Designer",
+    "tcol":"Hootsuite",
+    "img":"https://images.app.goo.gl/vRg5ydUCod3Bnx2w6"
+},
+{
+    "id":34,
+    "fcol":"3D Design",
+    "scol":"Photo Retoucher",
+    "tcol":"Buffer",
+    "img":"https://images.app.goo.gl/f3S277tNbEFpJu6F9"
+},
+{
+    "id":35,
+    "fcol":"Animation",
+    "scol":"Image Manipulator",
+    "tcol":"Sprout Social",
+    "img":"https://images.app.goo.gl/zCHewPMc9gHb2otH9"
+},
+
+{
+    "id":36,
+    "fcol":"Video Editing",
+    "scol":"Illustrator",
+    "tcol":"HubSpot",
+    "img":"https://images.app.goo.gl/BFoe61i7cpsx4Tti8"
+},
+{
+    "id":37,
+    "fcol":"Voiceover Recording",
+    "scol":"3D Designer",
+    "tcol":"SEMrush",
+    "img":"https://images.app.goo.gl/oY3BoDf5j3dMvm759"
+},
+{
+    "id":38,
+    "fcol":"Music Production",
+    "scol":"Animator",
+    "tcol":"Ahrefs",
+    "img":"https://images.app.goo.gl/dzJ2jq2fYVD3WRhz8"
+},
+{
+    "id":39,
+    "fcol":"Copywriting",
+    "scol":"Video Editor",
+    "tcol":"Moz",
+    "img":"https://images.app.goo.gl/xpA4HCXPT5gWQ8Nr5"
+},
+{
+    "id":40,
+    "fcol":"Content Creation",
+    "scol":"Voiceover Artist",
+    "tcol":"Yoast SEO",
+    "img":"https://images.app.goo.gl/y3edaqCJoTpP89aV6"
+},
+{
+    "id":41,
+    "fcol":"Blog Writing",
+    "scol":"Music Producer",
+    "tcol":"Mailchimp",
+    "img":"https://images.app.goo.gl/CVvLqCbQ87TX3vtW7"
+},
+{
+    "id":42,
+    "fcol":"Article Writing",
+    "scol":"Copywriter",
+    "tcol":"Constant Contact",
+    "img":"https://images.app.goo.gl/pkDkjoGHUTrKzLMf9"
+},
+{
+    "id":43,
+    "fcol":"Social Media Management",
+    "scol":"Content Creator",
+    "tcol":"ActiveCampaign",
+    "img":"https://images.app.goo.gl/FM7Fz8Et1LrdvWfT6"
+},
+{
+    "id":44,
+    "fcol":"Paid Advertising Management",
+    "scol":"Blogger",
+    "tcol":"ConvertKit",
+    "img":"https://images.app.goo.gl/BHrs31V5kX1UekeE9"
+},
+{
+    "id":45,
+    "fcol":"Search Engine Optimization (SEO)",
+    "scol":"SEO Specialist",
+    "tcol":"Zapier",
+    "img":"https://images.app.goo.gl/1b5A7j5Gcv1xFHKi7"
+},
+
+{
+    "id":46,
+    "fcol":"Website Development",
+    "scol":"Web Developer",
+    "tcol":"Trello",
+    "img":"https://images.app.goo.gl/sHn7CFPxXh715U7N8"
+},
+{
+    "id":47,
+    "fcol":"Website Maintenance",
+    "scol":"Website Maintenance Specialist",
+    "tcol":"Asana",
+    "img":"https://images.app.goo.gl/e52T7C31sAuAriph6"
+},
+{
+    "id":48,
+    "fcol":"Website Hosting",
+    "scol":"Technical Support Specialist",
+    "tcol":"Slack",
+    "img":"https://images.app.goo.gl/u1XX7ppdJuMijK8g7"
+},
+{
+    "id":49,
+    "fcol":"Domain Name Registration",
+    "scol":"Project Manager",
+    "tcol":"Zoom",
+    "img":"https://images.app.goo.gl/eA6nsyjCX81VJqc47"
+},
+{
+    "id":50,
+    "fcol":"Technical Support",
+    "scol":"Marketing Manager",
+    "tcol":"Skype",
+    "img":"https://images.app.goo.gl/EpZf8tEYdFZCjMxa7"
+}
+
+]

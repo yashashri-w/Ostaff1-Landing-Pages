@@ -1,0 +1,353 @@
+[
+    {
+        "id":1,
+        "fcol":"Structural engineering",
+        "scol":"Civil Engineer",
+        "tcol":"AutoCAD",
+        "img":"https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png"
+    },
+    {
+        "id":2,
+        "fcol":"Geotechnical engineering",
+        "scol":"Structural Engineer",
+        "tcol":"Revit",
+        "img":"https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png"
+    },
+    {
+        "id":3,
+        "fcol":"Environmental engineering",
+        "scol":"Geotechnical Engineer",
+        "tcol":"Civil 3D",
+        "img":"https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png"
+    },
+    {
+        "id":4,
+        "fcol":"Transportation engineering",
+        "scol":"Environmental Engineer",
+        "tcol":"MicroStation",
+        "img":"https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png"
+    },
+    {
+        "id":5,
+        "fcol":"Water resources engineering",
+        "scol":"Transportation Engineer",
+        "tcol":"InfraWorks",
+        "img":"https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png"
+    },
+    {
+        "id":6,
+        "fcol":"Land development",
+        "scol":"Water Resources Engineer",
+        "tcol":"ETABS",
+        "img":"https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png"
+    },
+    {
+        "id":7,
+        "fcol":"Site planning",
+        "scol":"Construction Manager",
+        "tcol":"SAP2000",
+        "img":"https://images.app.goo.gl/an3vJTjj7pteC1L7A"
+    },
+    {
+        "id":8,
+        "fcol":"Zoning analysis",
+        "scol":"Project Manager",
+        "tcol":"STAAD.Pro",
+        "img":"https://images.app.goo.gl/QQLGV52S8CqY8gDq9"
+    },
+    {
+        "id":9,
+        "fcol":"Surveying",
+        "scol":"Design Engineer",
+        "tcol":"ANSYS",
+        "img":"https://images.app.goo.gl/akBCbbr4Q5tG5bsY7"
+    },
+    {
+        "id":10,
+        "fcol":"Topographic surveys",
+        "scol":"Surveyor",
+        "tcol":"MathCAD",
+        "img":"https://images.app.goo.gl/byoiUedQLqqWSaY66"
+    },
+    {
+        "id":11,
+        "fcol":"Boundary surveys",
+        "scol":"Construction Engineer",
+        "tcol":"Bluebeam Revu",
+        "img":"https://images.app.goo.gl/2WgZMsEWtAXJe54Y9"
+    },
+    {
+        "id":12,
+        "fcol":"Construction staking",
+        "scol":"Materials Engineer",
+        "tcol":"Trimble SketchUp",
+        "img":"https://images.app.goo.gl/C2VUSSodZQPL4Tib8"
+    },
+    {
+        "id":13,
+        "fcol":"CAD drafting",
+        "scol":"Quality Control/Quality Assurance Engineer",
+        "tcol":"SketchUp Pro",
+        "img":"https://images.app.goo.gl/ZnukBuWioNSzacEf9"
+    },
+    {
+        "id":14,
+        "fcol":"3D modeling",
+        "scol":"CAD Designer",
+        "tcol":"Rhino 3D",
+        "img":"https://images.app.goo.gl/ZnukBuWioNSzacEf9"
+    },
+    {
+        "id":15,
+        "fcol":"BIM modeling",
+        "scol":"3D Modeler",
+        "tcol":"3D Max",
+        "img":"https://images.app.goo.gl/voqTz99pi8nbYqrD6"
+    },
+    {
+        "id":16,
+        "fcol":"Construction management",
+        "scol":"BIM Modeler",
+        "tcol":"Lumion",
+        "img":"https://images.app.goo.gl/NGQZQ2UJEXf15eFS8"
+    },
+    {
+        "id":17,
+        "fcol":"Scheduling",
+        "scol":"Estimator",
+        "tcol":"Tekla Structures",
+        "img":"https://images.app.goo.gl/3arEzgpDYGaB2str9"
+    },
+    {
+        "id":18,
+        "fcol":"Cost estimating",
+        "scol":"Field Engineer",
+        "tcol":"Bentley OpenRoads Designer",
+        "img":"https://images.app.goo.gl/3Qr3sn9oFevoP1WG8"
+    },
+    {
+        "id":19,
+        "fcol":"Project coordination",
+        "scol":"Site Engineer",
+        "tcol":"GeoStudio",
+        "img":"https://images.app.goo.gl/7JnGwnhNZzFduXDL9"
+    },
+    {
+        "id":20,
+        "fcol":"Building Information Modeling (BIM)",
+        "scol":"Planning Engineer",
+        "tcol":"Plaxis",
+        "img":"https://images.app.goo.gl/VxoxdAutQ1KPA1bu9"
+    },
+    {
+        "id":21,
+        "fcol":"Quality control/quality assurance",
+        "scol":"Inspection Engineer",
+        "tcol":"Primavera P6",
+        "img":"https://images.app.goo.gl/BPnDFazNKWiHcuz39"
+    },
+    {
+        "id":22,
+        "fcol":"Feasibility studies",
+        "scol":"Geologist",
+        "tcol":"MS Project",
+        "img":"https://images.app.goo.gl/t3iVCue6yhYeFNrp8"
+    },
+    {
+        "id":23,
+        "fcol":"Construction inspection",
+        "scol":"Project Coordinator",
+        "tcol":"PlanGrid",
+        "img":"https://images.app.goo.gl/erpsCyC76fRKUUkH6"
+    },
+    {
+        "id":24,
+        "fcol":"Risk management",
+        "scol":"Permitting Specialist",
+        "tcol":"BIM 360",
+        "img":"https://images.app.goo.gl/aFgXEveenS7i4dRu9"
+    },
+    {
+        "id":25,
+        "fcol":"Materials testing",
+        "scol":"Land Surveyor",
+        "tcol":"Procore",
+        "img":"https://images.app.goo.gl/W8HegXWDxeZji4WA9"
+    },
+    {
+        "id":26,
+        "fcol":"Geophysical exploration",
+        "scol":"Urban Planner",
+        "tcol":"Construction Master Pro",
+        "img":"https://images.app.goo.gl/pLRatnPC7diX82Cu9"
+    },
+    {
+        "id":27,
+        "fcol":"Environmental impact assessments",
+        "scol":"Traffic Engineer",
+        "tcol":"Leica Geosystems",
+        "img":"https://images.app.goo.gl/mDVvbHnpysQr6CaL8"
+    },
+    {
+        "id":28,
+        "fcol":"Remediation plans",
+        "scol":"Cost Engineer",
+        "tcol":"Topcon",
+        "img":"https://images.app.goo.gl/y2riNXv8H9zuevUA6"
+    },
+    {
+        "id":29,
+        "fcol":"Compliance services",
+        "scol":"Structural Designer",
+        "tcol":"Trimble Total Station",
+        "img":"https://images.app.goo.gl/SBGMFUqGKjJW7h6o7"
+    },
+    {
+        "id":30,
+        "fcol":"Stormwater management",
+        "scol":"Water Treatment Engineer",
+        "tcol":"GPS",
+        "img":"https://images.app.goo.gl/3N1kQXaBMyXPFbuk8"
+    },
+    {
+        "id":31,
+        "fcol":"Flood control",
+        "scol":"Wastewater Treatment Engineer",
+        "tcol":"Laser Scanners",
+        "img":"https://images.app.goo.gl/3N1kQXaBMyXPFbuk8"
+    },
+    {
+        "id":32,
+        "fcol":"Water supply systems",
+        "scol":"Highway Engineer",
+        "tcol":"Drones",
+        "img":"https://images.app.goo.gl/q6coNLZizYNzpESW6"
+    },
+    {
+        "id":33,
+        "fcol":"Wastewater treatment plants",
+        "scol":"Airport Engineer",
+        "tcol":"Fluke Multimeter",
+        "img":"https://images.app.goo.gl/NDVTeWMCRxiwkJRh8"
+    },
+    {
+        "id":34,
+        "fcol":"Industrial facilities",
+        "scol":"Rail Engineer",
+        "tcol":"Anemometers",
+        "img":"https://images.app.goo.gl/kerWJf1aheB8jkfk6"
+    },
+    {
+        "id":35,
+        "fcol":"Bridges",
+        "scol":"Utility Engineer",
+        "tcol":"Digital Level",
+        "img":"https://images.app.goo.gl/pEBqux976WxsyT6B6"
+    },
+    {
+        "id":36,
+        "fcol":"Tunnels",
+        "scol":"Environmental Scientist",
+        "tcol":"Spectrophotometer",
+        "img":"https://images.app.goo.gl/RszknSRpZJsfoQNH6"
+    },
+    {
+        "id":37,
+        "fcol":"Highways",
+        "scol":"GIS Specialist",
+        "tcol":"Air Quality Monitors",
+        "img":"https://images.app.goo.gl/TEFtzCntJmwXcR2d8"
+    },
+    {
+        "id":38,
+        "fcol":"Railways",
+        "scol":"Contract Administrator",
+        "tcol":"Water Quality Monitors",
+        "img":"https://images.app.goo.gl/sbouwKqVxncQwLFK7"
+    },
+    {
+        "id":39,
+        "fcol":"Airports",
+        "scol":"Procurement Specialist",
+        "tcol":"pH Meter",
+        "img":"https://images.app.goo.gl/Wgut3Mx2gUuUjRaC9"
+    },
+    {
+        "id":40,
+        "fcol":"Retaining walls",
+        "scol":"Risk Manager",
+        "tcol":"Soil Test Kits",
+        "img":"https://images.app.goo.gl/1CuAWtZNASbSRGUA9"
+    },
+    {
+        "id":41,
+        "fcol":"Slope stability analysis",
+        "scol":"Safety Manager",
+        "tcol":"Concrete Test Hammers",
+        "img":"https://images.app.goo.gl/GWK8xgnQHGaSY3UG8"
+    },
+    {
+        "id":42,
+        "fcol":"Foundation design",
+        "scol":"Sustainability Engineer",
+        "tcol":"Rebound Hammers",
+        "img":"https://images.app.goo.gl/2SukmWiKUmyyeLBa6"
+    },
+    {
+        "id":43,
+        "fcol":"Structural analysis",
+        "scol":"Energy Engineer",
+        "tcol":"Core Drill Machine",
+        "img":"https://images.app.goo.gl/ycr3TtvzWE1Rs13y8"
+    },
+    {
+        "id":44,
+        "fcol":"Structural design",
+        "scol":"Commissioning Engineer",
+        "tcol":"Plate Load Test Apparatus",
+        "img":"https://images.app.goo.gl/5c34zJs6RPNP3vT67"
+    },
+    {
+        "id":45,
+        "fcol":"Building design",
+        "scol":"Acoustical Engineer",
+        "tcol":"Compression Testing Machine",
+        "img":"https://images.app.goo.gl/7QvKpgNnNzAksqrN6"
+    },
+    {
+        "id":46,
+        "fcol":"Seismic analysis",
+        "scol":"Building Code Inspector",
+        "tcol":"Digital Thermometer",
+        "img":"https://images.app.goo.gl/fnvSvfrcgs9HxL5AA"
+    },
+    {
+        "id":47,
+        "fcol":"Wind analysis",
+        "scol":"Construction Scheduler",
+        "tcol":"Infrared Thermometer",
+        "img":"https://images.app.goo.gl/AtYta9Yx9MEEBaMDA"
+    },
+    {
+        "id":48,
+        "fcol":"Thermal analysis",
+        "scol":"Cost Estimator",
+        "tcol":"Sound Level Meter",
+        "img":"https://images.app.goo.gl/d7dTo8qki5A8c3Y87"
+    },
+    {
+        "id":49,
+        "fcol":"Energy modeling",
+        "scol":"Land Development Planner",
+        "tcol":"Lux Meter",
+        "img":"https://images.app.goo.gl/sqcgQwKYgLb7whgf6"
+    },
+    {
+        "id":50,
+        "fcol":"Life cycle cost analysis.",
+        "scol":"Permit Coordinator",
+        "tcol":"Hygrometer",
+        "img":"https://images.app.goo.gl/wAjZEkXuriopPjkz5"
+    }
+
+]

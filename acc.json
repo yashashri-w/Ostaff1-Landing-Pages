@@ -1,0 +1,249 @@
+[
+{
+    "id":1,
+    "fcol":"<b>Finance & Accounting</b>",
+    "scol":"Accountant",
+    "tcol":"<b>Software</b>",
+    "img":""
+},
+{
+    "id":2,
+    "fcol":"Accounting",
+    "scol":"Accounts Assistant",
+    "tcol":"Accounting",
+    "img":"https://images.app.goo.gl/7hYQdyibo2PKYHcP6"
+},
+{
+    "id":3,
+    "fcol":"Accounting Issues",
+    "scol":"Accounts Payable Analyst",
+    "tcol":"Budgeting",
+    "img":"https://images.app.goo.gl/pcGgy2nX6fSctwes8"
+},
+{
+    "id":4,
+    "fcol":"Accounting Standards",
+    "scol":"Accounts Payable Lead",
+    "tcol":"Business Intelligence",
+    "img":"https://images.app.goo.gl/Qb9LawBy3Qq257Ah6"
+},
+{
+    "id":5,
+    "fcol":"Accruals",
+    "scol":"Accounts Payable Supervisor",
+    "tcol":"CRM",
+    "img":"https://images.app.goo.gl/mDZYbw9ACKZNLsf7A"
+},
+{
+    "id":6,
+    "fcol":"Actuarial",
+    "scol":"Accounts Payable/Receivable clerk",
+    "tcol":"ERP",
+    "img":"https://images.app.goo.gl/hk99tjGHfMxDr2N96"
+},
+{
+    "id":7,
+    "fcol":"Audit Preparation",
+    "scol":"Accounts Receivables Analyst",
+    "tcol":"Fixed Assets",
+    "img":""
+},
+{
+    "id":8,
+    "fcol":"Bank Reconciliation",
+    "scol":"Accounts Receivables Lead",
+    "tcol":"HRIS",
+    "img":""
+},
+{
+    "id":9,
+    "fcol":"Bank Statements",
+    "scol":"Actuary",
+    "tcol":"Implementation",
+    "img":""
+},
+{
+    "id":10,
+    "fcol":"Bookkeeping",
+    "scol":"AP Recon Manager",
+    "tcol":"Sales Force Automation",
+    "img":""
+},
+{
+    "id":11,
+    "fcol":"Budgeting & Forecasting",
+    "scol":"Assistant Manager - Finance",
+    "tcol":"<b>Accounting Software</b>",
+    "img":""
+},
+{
+    "id":12,
+    "fcol":"Capital Structure",
+    "scol":"Assistant Manager - Vendor Management",
+    "tcol":"Xero",
+    "img":"https://images.app.goo.gl/HVoYw3bmBei28Lga8"
+},
+{
+    "id":13,
+    "fcol":"Cash Flow Statements",
+    "scol":"Associate AP Analyst",
+    "tcol":"Zoho Books",
+    "img":"https://images.app.goo.gl/cLq7SFJvUFqneWZM6"
+},
+{
+    "id":14,
+    "fcol":"Chart of Accounts",
+    "scol":"Associate Billing Analyst",
+    "tcol":"FreshBooks",
+    "img":"https://images.app.goo.gl/61LKdAD5J8x4W57E7"
+},
+{
+    "id":15,
+    "fcol":"Claims Processing",
+    "scol":"Associate Cash Analyst",
+    "tcol":"Wave Accounting",
+    "img":"https://images.app.goo.gl/dNdUuedsbR1QhEDb6"
+},
+{
+    "id":16,
+    "fcol":"Commission Reports",
+    "scol":"Associate Recon Analyst",
+    "tcol":"ACCPAC",
+    "img":"https://images.app.goo.gl/LYzMLTzF75kJHdX9A"
+},
+{
+    "id":17,
+    "fcol":"Consolidated Financial Statements",
+    "scol":"Auditor",
+    "tcol":"Great Plains",
+    "img":"https://images.app.goo.gl/5UwVNonfSB21p9GD6"
+},
+{
+    "id":18,
+    "fcol":"Cost Analysis & Reduction",
+    "scol":"Bid Manager",
+    "tcol":"MAS Series",
+    "img":"https://images.app.goo.gl/D7zDEr68AiSSk4P89"
+},
+{
+    "id":19,
+    "fcol":"Covenants",
+    "scol":"Billing Analyst",
+    "tcol":"Navision",
+    "img":"https://images.app.goo.gl/Eg5KiS47EucpDg869"
+},
+{
+    "id":20,
+    "fcol":"Credit Card Authorizations",
+    "scol":"Billing Clerk",
+    "tcol":"Peachtree",
+    "img":"https://www.avaza.com/wp-content/uploads/2016/01/Quick-Books@2x.png"
+},
+{
+    "id":21,
+    "fcol":"Credit Reports",
+    "scol":"Bookkeeper",
+    "tcol":"QuickBooks",
+    "img":"https://www.avaza.com/wp-content/uploads/2016/01/Quick-Books@2x.png"
+},
+{
+    "id":22,
+    "fcol":"Customer Collections",
+    "scol":"Branch Accountant",
+    "tcol":"SAGE Series",
+    "img":"https://www.avaza.com/wp-content/uploads/2016/01/Quick-Books@2x.pngs"
+},
+{
+    "id":23,
+    "fcol":"Depreciation",
+    "scol":"Budget Analyst",
+    "tcol":"Solomon",
+    "img":"https://www.avaza.com/wp-content/uploads/2016/01/Quick-Books@2x.png"
+},
+{
+    "id":24,
+    "fcol":"Due Diligence Support",
+    "scol":"Budgeting Executive",
+    "tcol":"ERP Software",
+    "img":"https://www.avaza.com/wp-content/uploads/2016/01/Quick-Books@2x.png"
+},
+{
+    "id":25,
+    "fcol":"EBITDA",
+    "scol":"Budgeting Supervisor",
+    "tcol":"Oracle Fusion Cloud ERP",
+    "img":"https://www.avaza.com/wp-content/uploads/2016/01/Quick-Books@2x.png"
+},
+{
+    "id":26,
+    "fcol":"Employee Reimbursements",
+    "scol":"Business Development Officer",
+    "tcol":"Microsoft Dynamics 365 for Finance and Operations",
+    "img":"https://www.avaza.com/wp-content/uploads/2016/01/Quick-Books@2x.png"
+},
+{
+    "id":27,
+    "fcol":"ERP Configuration",
+    "scol":"Cash Analyst",
+    "tcol":"Infor CloudSuite",
+    "img":"https://images.app.goo.gl/x2f7dkrT41TMjMJRA"
+},
+{
+    "id":28,
+    "fcol":"Financial Accounting",
+    "scol":"Cash Supervisor",
+    "tcol":"Acumatica Cloud ERP",
+    "img":"https://images.app.goo.gl/cr1bEk2py5468jo4A"
+},
+{
+    "id":29,
+    "fcol":"Financial Performance",
+    "scol":"Chief Finance Officer",
+    "tcol":"Baan",
+    "img":""
+},
+{
+    "id":30,
+    "fcol":"Financial Policies & Procedures",
+    "scol":"Claims Analyst",
+    "tcol":"Oracle Financials",
+    "img":"https://images.app.goo.gl/rggn3uxi5HtzkWY96"
+},
+{
+    "id":31,
+    "fcol":"Financial Strategy",
+    "scol":"Claims Executive",
+    "tcol":"PeopleSoft",
+    "img":"https://images.app.goo.gl/3AgU5N9DYVtxiTS17"
+},
+{
+    "id":32,
+    "fcol":"Financial Support",
+    "scol":"Collateral Appraiser",
+    "tcol":"SAP",
+    "img":"https://images.app.goo.gl/3ptp8bChcgFNuWvm8"
+},
+{
+    "id":33,
+    "fcol":"Financial Systems",
+    "scol":"Collections Executive",
+    "tcol":"<b>CRM & SFA</b>",
+    "img":""
+},
+{
+    "id":34,
+    "fcol":"Fixed Assets",
+    "scol":"Controller",
+    "tcol":"Act!",
+    "img":"https://images.app.goo.gl/rLG5gWigbbcsmgM76"
+},
+{
+    "id":35,
+    "fcol":"Foreign Exchange",
+    "scol":"Corporate Controller",
+    "tcol":"Goldmine",
+    "img":"https://images.app.goo.gl/rLG5gWigbbcsmgM76"
+}
+
+
+]
