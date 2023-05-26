@@ -1279,103 +1279,103 @@
     {
         "id":214,
         "fcol":"Game development",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Message Brokers</b>"
     },
     {
         "id":215,
         "fcol":"Virtual and augmented reality (VR/AR) development",
-        "scol":null,
+        "scol":"",
         "tcol":"Apache Kafka"
     },
     {
         "id":216,
         "fcol":"Open source software development",
-        "scol":null,
+        "scol":"",
         "tcol":"Amazon Kinesis"
     },
     {
         "id":217,
         "fcol":"API development and integration",
-        "scol":null,
+        "scol":"",
         "tcol":"Azure Event Hubs"
     },
     {
         "id":218,
         "fcol":"Microservices architecture",
-        "scol":null,
+        "scol":"",
         "tcol":"Google Cloud Pub/Sub"
     },
     {
         "id":219,
         "fcol":"Data migration",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Monitoring and Logging Tools</b>"
     },
     {
         "id":220,
         "fcol":"Data visualization",
-        "scol":null,
+        "scol":"",
         "tcol":"Prometheus"
     },
     {
         "id":221,
         "fcol":"Cloud-native development",
-        "scol":null,
+        "scol":"",
         "tcol":"ELK Stack"
     },
     {
         "id":222,
         "fcol":"Cloud migration",
-        "scol":null,
+        "scol":"",
         "tcol":"Datadog"
     },
     {
         "id":223,
         "fcol":"Kubernetes",
-        "scol":null,
+        "scol":"",
         "tcol":"DevOps Tools"
     },
     {
         "id":224,
         "fcol":"Amazon Web Services (AWS)",
-        "scol":null,
+        "scol":"",
         "tcol":"New Relic"
     },
     {
         "id":225,
         "fcol":"Microsoft Azure",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Agile Development Methodologies</b>"
     },
     {
         "id":226,
         "fcol":"Google Cloud Platform (GCP)",
-        "scol":null,
+        "scol":"",
         "tcol":"Scrum"
     },
     {
         "id":227,
         "fcol":"Docker",
-        "scol":null,
+        "scol":"",
         "tcol":"Kanban"
     },
     {
         "id":228,
         "fcol":"Serverless computing",
-        "scol":null,
+        "scol":"",
         "tcol":"Feature-Driven Development (FDD)"
     },
     {
         "id":229,
         "fcol":"ChatOps",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>DevOps Methodologies</b>"
     },
     {
         "id":230,
         "fcol":"Git and version control",
-        "scol":null,
+        "scol":"",
         "tcol":"ITIL"
     },
     {
@@ -1387,7 +1387,7 @@
     {
         "id":232,
         "fcol":"<h3><b>Platform/OS<b></h3>",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Security Models</b>"
     },
     {
