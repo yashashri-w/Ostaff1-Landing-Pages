@@ -1381,7 +1381,7 @@
     {
         "id":231,
         "fcol":"Technical writing and documentation",
-        "scol":null,
+        "scol":"",
         "tcol":"Site Reliability Engineering (SRE)"
     },
     {
@@ -1393,577 +1393,576 @@
     {
         "id":233,
         "fcol":"Extensibility",
-        "scol":null,
+        "scol":"",
         "tcol":"Shared Responsibility Model"
     },
     {
         "id":234,
         "fcol":"Hardware Bring-up",
-        "scol":null,
+        "scol":"",
         "tcol":"Zero Trust Model"
     },
     {
         "id":235,
         "fcol":"Platform Architecture",
-        "scol":null,
+        "scol":"",
         "tcol":"Identity and Access Management (IAM)"
     },
     {
         "id":236,
         "fcol":"Platform Design",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Cloud-Native Frameworks</b>"
     },
     {
         "id":237,
         "fcol":"Platform Integration",
-        "scol":null,
+        "scol":"",
         "tcol":"Spring Cloud"
     },
     {
         "id":238,
         "fcol":"Platform Management",
-        "scol":null,
+        "scol":"",
         "tcol":"AWS CDK"
     },
     {
         "id":239,
         "fcol":"Productization",
-        "scol":null,
+        "scol":"",
         "tcol":"Azure Spring Cloud"
     },
     {
         "id":240,
         "fcol":"Proposition Design",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Service Meshes</b>"
     },
     {
         "id":241,
         "fcol":"Reference Designs",
-        "scol":null,
+        "scol":"",
         "tcol":"Istio"
     },
     {
         "id":242,
         "fcol":"Technology Change Management",
-        "scol":null,
+        "scol":"",
         "tcol":"Linkerd"
     },
     {
         "id":243,
         "fcol":"Technology Platforms",
-        "scol":null,
+        "scol":"",
         "tcol":"Consul"
     },
     {
         "id":244,
         "fcol":"Windows Development",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Cloud-based Application Development Tools</b>"
     },
     {
         "id":245,
         "fcol":"Cloud Infrastructure Design and Implementation",
-        "scol":null,
+        "scol":"",
         "tcol":"AWS Cloud9"
     },
     {
         "id":246,
         "fcol":"Cloud Integration",
-        "scol":null,
+        "scol":"",
         "tcol":"Visual Studio Code"
     },
     {
         "id":247,
         "fcol":"Cloud Security",
-        "scol":null,
+        "scol":"",
         "tcol":"Eclipse Che"
     },
     {
         "id":248,
         "fcol":"Cloud Monitoring and Management",
-        "scol":null,
+        "scol":"",
         "tcol":"Gitpod"
     },
     {
         "id":249,
         "fcol":"Cloud Consulting",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>NoSQL Databases</b>"
     },
     {
         "id":250,
         "fcol":"SaaS and PaaS based Cloud Application",
-        "scol":null,
+        "scol":"",
         "tcol":"Apache Cassandra"
     },
     {
         "id":251,
         "fcol":"Cloud Management",
-        "scol":null,
+        "scol":"",
         "tcol":"DynamoDB"
     },
     {
         "id":252,
         "fcol":"Cloud Advisory",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Virtualization Tools</b>"
     },
     {
         "id":253,
         "fcol":"Infrastructure management",
-        "scol":null,
+        "scol":"",
         "tcol":"VMware"
     },
     {
         "id":254,
         "fcol":"Database management",
-        "scol":null,
+        "scol":"",
         "tcol":"VirtualBox"
     },
     {
         "id":255,
         "fcol":"Application deployment",
-        "scol":null,
+        "scol":"",
         "tcol":"Hyper-V"
     },
     {
         "id":256,
         "fcol":"Security management",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Cloud Migration Tools</b>"
     },
     {
         "id":257,
         "fcol":"Testing and development",
-        "scol":null,
+        "scol":"",
         "tcol":"CloudEndure"
     },
     {
         "id":258,
         "fcol":"Analytics",
-        "scol":null,
+        "scol":"",
         "tcol":"Azure Migrate"
     },
     {
         "id":259,
         "fcol":"Infrastructure expertise",
-        "scol":null,
+        "scol":"",
         "tcol":"AWS Server Migration Service"
     },
     {
         "id":260,
         "fcol":"Cloud architecture",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Hybrid Cloud Management Tools</>"
     },
     {
         "id":261,
         "fcol":"Big data and analytics",
-        "scol":null,
+        "scol":"",
         "tcol":"IBM Cloud Pak for Multicloud Management"
     },
     {
         "id":262,
         "fcol":"Cloud-enabled App Development",
-        "scol":null,
+        "scol":"",
         "tcol":"VMware vRealize Suite"
     },
     {
         "id":263,
         "fcol":"Cloud Consulting Services",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Cloud Testing Tools</b>"
     },
     {
         "id":264,
         "fcol":"Content writing",
-        "scol":null,
+        "scol":"",
         "tcol":"BlazeMeter"
     },
     {
         "id":265,
         "fcol":"QA testing",
-        "scol":null,
+        "scol":"",
         "tcol":"Flood"
     },
     {
         "id":266,
         "fcol":"UI/UX Design",
-        "scol":null,
+        "scol":"",
         "tcol":"AWS Device Farm"
     },
     {
         "id":266,
         "fcol":"Responsive Design",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>API Gateways</b>"
     },
     {
         "id":267,
         "fcol":"Full-stack Development",
-        "scol":null,
+        "scol":"",
         "tcol":"AWS API Gateway"
     },
     {
         "id":268,
         "fcol":"Web Accessibility",
-        "scol":null,
+        "scol":"",
         "tcol":"Apigee"
     },
     {
         "id":269,
         "fcol":"E-commerce Development",
-        "scol":null,
+        "scol":"",
         "tcol":"Kong"
     },
     {
         "id":270,
         "fcol":"Content Management System (CMS) Development",
-        "scol":null,
+        "scol":"",
         "tcol":"<b>Multi-Cloud Management Platforms</b>"
     },
     {
         "id":271,
         "fcol":"Website Maintenance and Support",
-        "scol":null,
+        "scol":"",
         "tcol":"CloudHealth by VMware"
     },
     {
         "id":272,
         "fcol":"Search Engine Optimization (SEO)",
-        "scol":null,
+        "scol":"",
         "tcol":"CloudBolt"
     },
     {
         "id":273,
         "fcol":"Website Performance Optimization",
-        "scol":null,
+        "scol":"",
         "tcol":"Flexera"
     },
     {
         "id":274,
         "fcol":"Graphic Design",
-        "scol":null,
+        "scol":"",
         "tcol":"<B>Low-code/No-code Platforms</B>"
     },
     {
         "id":275,
         "fcol":"Copywriting and Content Creation",
-        "scol":null,
+        "scol":"",
         "tcol":"AWS Honeycode"
     },
     {
         "id":276,
         "fcol":"Information Architecture",
-        "scol":null,
+        "scol":"",
         "tcol":"Google App Maker"
     },
     {
         "id":277,
         "fcol":"Web Analytics",
-        "scol":null,
+        "scol":"",
         "tcol":"Microsoft Power Apps"
     },
     {
         "id":278,
         "fcol":"Mobile App Development (for web-based apps)",
-        "scol":null,
+        "scol":"",
         "tcol":"<B>PaaS Platforms</B>"
     },
     {
         "id":279,
         "fcol":"Social Media Integration",
-        "scol":null,
+        "scol":"",
         "tcol":"Heroku"
     },
     {
         "id":280,
         "fcol":"Web Security and Data Protection",
-        "scol":null,
+        "scol":"",
         "tcol":"Firebase"
     }
     ,
     {
         "id":281,
         "fcol":"Website Hosting",
-        "scol":null,
+        "scol":"",
         "tcol":"<B>Front-end Frameworks</B>"
     },
     {
         "id":282,
         "fcol":"Custom Web Application Development",
-        "scol":null,
+        "scol":"",
         "tcol":"React"
     },
     {
         "id":283,
         "fcol":"Virtual and Augmented Reality Integration",
-        "scol":null,
+        "scol":"",
         "tcol":"Angular"
     }
     ,
     {
         "id":284,
         "fcol":"Video and Audio Production for Web",
-        "scol":null,
+        "scol":"",
         "tcol":"Vue.js"
     },
     {
         "id":285,
         "fcol":"Chatbot and AI Integration",
-        "scol":null,
+        "scol":"",
         "tcol":"<B>Programming Languages</B>"
     },
     {
         "id":286,
         "fcol":"Software Architecture and Design",
-        "scol":null,
+        "scol":"",
         "tcol":"Web Frameworks"
     },
-    
     {
         "id":287,
         "fcol":"DevOps and Cloud Infrastructure",
-        "scol":null,
+        "scol":"",
         "tcol":"Vue"
     },
     {
         "id":288,
         "fcol":"Project Management and Agile Development",
-        "scol":null,
+        "scol":"",
         "tcol":"<B>Database Management Systems</B>"
     },
     {
         "id":289,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"BIAN (Banking Industry Architecture Network) Framework"
     },
     {
         "id":290,
         "fcol":"Data Analytics and Business Intelligence",
-        "scol":null,
+        "scol":"",
         "tcol":"PostgreSQL"
     },
     {
         "id":291,
         "fcol":"Integration with Third-Party Services and APIs",
-        "scol":null,
+        "scol":"",
         "tcol":"Cloud Computing Platforms"
     },
     {
         "id":292,
         "fcol":"Marketing and SEO Optimization",
-        "scol":null,
+        "scol":"",
         "tcol":"Google Cloud Platform"
     }
     ,
     {
         "id":293,
         "fcol":"Customer Support and Success.",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":294,
         "fcol":"Artificial Intelligence and Machine Learning",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":295,
         "fcol":"Chatbots and Virtual Assistants",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":296,
         "fcol":"Internet of Things (IoT)",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":297,
         "fcol":"Big Data Management and Analytics",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":298,
         "fcol":"Cloud Computing Services",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":299,
         "fcol":"Email and SMS Marketing Integration",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":300,
         "fcol":"Localization and Translation Services",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":301,
         "fcol":"Image and Video Processing",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":302,
         "fcol":"Audio Processing and Transcription",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":303,
         "fcol":"Cybersecurity and Threat Analysis",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":304,
         "fcol":"Disaster Recovery and Business Continuity Planning",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":305,
         "fcol":"Performance Optimization and Scalability",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":306,
         "fcol":"A/B Testing and Conversion Rate Optimization (CRO)",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":307,
         "fcol":"Customer Relationship Management (CRM) Integration",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":308,
         "fcol":"Human Resources Management (HRM) Integration",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":309,
         "fcol":"Accounting and Financial Management Integration",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":310,
         "fcol":"Legal Compliance and Regulatory Consulting",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":311,
         "fcol":"Intellectual Property (IP) Protection and Patent Filing",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":312,
         "fcol":"Competitive Research and Market Analysis",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":313,
         "fcol":"Data Visualization and Reporting",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":314,
         "fcol":"Search Engine Marketing (SEM)",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":315,
         "fcol":"Affiliate Marketing Integration",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":316,
         "fcol":"Influencer Marketing Integration",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":316,
         "fcol":"Email and Newsletter Management",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":317,
         "fcol":"Customer Feedback and Survey Integration",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":318,
         "fcol":"Gamification and Reward Programs",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":319,
         "fcol":"Virtual Reality (VR) and Augmented Reality (AR)",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":320,
         "fcol":"Geolocation Services and Maps Integration",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":321,
         "fcol":"Push Notification and Messaging Services",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     }
     ,
     {
         "id":322,
         "fcol":"Community Building and Forum Integration",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":323,
         "fcol":"E-commerce and Payment Processing",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":324,
         "fcol":"Supply Chain and Logistics Integration",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":325,
         "fcol":"Inventory Management and Control.",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":326,
@@ -2120,68 +2119,68 @@
     {
         "id":350,
         "fcol":"Legacy system integration",
-        "scol":null,
+        "scol":"",
         "tcol":"Apache ServiceMix"
     },
     {
         "id":351,
         "fcol":"Mobile application integration",
-        "scol":null,
+        "scol":"",
         "tcol":"Apache Synapse"
     },
     {
         "id":352,
         "fcol":"Integration testing",
-        "scol":null,
+        "scol":"",
         "tcol":"Apache NIFI"
     },
     {
         "id":353,
         "fcol":"Financial AccountinIntegration project managementg",
-        "scol":null,
+        "scol":"",
         "tcol":"Acumatica Cloud ERP"
     },
     {
         "id":354,
         "fcol":"Integration analysis and design",
-        "scol":null,
+        "scol":"",
         "tcol":"Amazon Web Services (AWS) Integration Services"
     },
     {
         "id":355,
         "fcol":"Integration performance tuning",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":356,
         "fcol":"Integration troubleshooting and support",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":357,
         "fcol":"Integration security management",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":358,
         "fcol":"Integration infrastructure management",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":359,
         "fcol":"Integration monitoring and reporting",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":360,
         "fcol":"Integration capacity planning",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":361,
@@ -2349,940 +2348,938 @@
     },
     {
         "id":387,
-        "fcol":null,
+        "fcol":"",
         "scol":"Testing/Quality Assurance Developer",
         "tcol":"Travis CI"
     },
     {
         "id":388,
-        "fcol":null,
+        "fcol":"",
         "scol":"Project Manager",
         "tcol":"CircleCI"
     },
     {
         "id":389,
-        "fcol":null,
+        "fcol":"",
         "scol":"Technical Lead",
         "tcol":"AWS"
     },
     {
         "id":390,
         "fcol":"Integration performance tuning",
-        "scol":null,
-        "tcol":null
+        "scol":"",
+        "tcol":""
     },
     {
         "id":391,
-        "fcol":null,
+        "fcol":"",
         "scol":"Agile Coach",
         "tcol":"Google Cloud Platform"
     },
     {
         "id":392,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Microsoft Azure"
     },
     {
         "id":393,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Tools:"
     },
     {
         "id":394,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Visual Studio Code"
     },
     {
         "id":395,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Atom"
     },
     {
         "id":396,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Sublime Text"
     },
     {
         "id":397,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"WebStorm"
     },
     {
         "id":398,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Eclipse"
     },
     {
         "id":399,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"IntelliJ IDEA"
     },
     {
         "id":400,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"NetBeans"
     },
     {
         "id":401,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Brackets"
     },
     {
         "id":402,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Notepad++"
     },
     {
         "id":403,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Vim"
     },
     {
         "id":404,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Emacs"
     },
     {
         "id":405,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Sketch"
     },
     {
         "id":406,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Adobe XD"
     },
     {
         "id":407,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"InVision"
     },
     {
         "id":408,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Zeplin"
     },
     {
         "id":409,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Trello"
     },
     {
         "id":410,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Asana"
     },
     {
         "id":411,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"JIRA"
     },
     {
         "id":412,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Basecamp"
     },
     {
-            "id":413,
-            "fcol":"<h3><b>Database Development</b></h3>",
-            "scol":"<h3><b>Database Development</b></h3>",
-            "tcol":"<h3><b>Database Development</b></h3>"
-        },
-        {
-            "id":414,
-            "fcol":"Database design and modeling",
-            "scol":"Database Analyst",
-            "tcol":"Software:"
-        },
-        {
-            "id":415,
-            "fcol":"Database administration and maintenance",
-            "scol":"Data Warehouse Specialist",
-            "tcol":"Oracle Database"
-        },
-        {
-            "id":416,
-            "fcol":"Database optimization and tuning",
-            "scol":"Database Manager",
-            "tcol":"Microsoft SQL Server"
-        },
-        {
-            "id":417,
-            "fcol":"Data backup and recovery",
-            "scol":"Database Programmer",
-            "tcol":"IBM DB2"
-        },
-        {
-            "id":418,
-            "fcol":"Data migration and conversion",
-            "scol":"Database Coordinator",
-            "tcol":"SQLite"
-            
-        },
-        {
-            "id":419,
-            "fcol":"Database security management",
-            "scol":"Database Consultant",
-            "tcol":"MariaDB"
-        },
-        {
-            "id":420,
-            "fcol":"Data warehousing and business intelligence",
-            "scol":"Database Tester",
-            "tcol":"Amazon Aurora"
-        },
-        {
-            "id":421,
-            "fcol":"Database performance monitoring and analysis",
-            "scol":"Database Security Administrator",
-            "tcol":"Redis"
-        },
-        {
-            "id":422,
-            "fcol":"Database replication and synchronization",
-            "scol":"Database Trainer",
-            "tcol":"Couchbase"
-        },
-        {
-            "id":423,
-            "fcol":"Cloud database management",
-            "scol":"Database Specialist",
-            "tcol":"Neo4j"
-        },
-        {
-            "id":424,
-            "fcol":"Database testing and quality assurance",
-            "scol":"Database Performance Analyst",
-            "tcol":"Tools:"
-        },
-        {
-            "id":425,
-            "fcol":"Database performance benchmarking",
-            "scol":"Database Technical Lead",
-            "tcol":"Toad for Oracle"
-        },
-        {
-            "id":426,
-            "fcol":"Database capacity planning and scaling",
-            "scol":"Database Team Lead",
-            "tcol":"SQL Server Management Studio"
-        },
-        {
-            "id":427,
-            "fcol":"Database architecture and integration",
-            "scol":"Database Support Analyst",
-            "tcol":"MySQL Workbench"
-        },
-        {
-            "id":428,
-            "fcol":"Database documentation and training",
-            "scol":"Database Operations Manager",
-            "tcol":"pgAdmin"
-        },
-        {
-            "id":429,
-            "fcol":"Database monitoring and reporting",
-            "scol":"Database Solutions Architect",
-            "tcol":"Robomongo"
-        },
-        {
-            "id":430,
-            "fcol":"NoSQL database development",
-            "scol":"Database Integration Specialist",
-            "tcol":"IBM Data Studio"
-        },
-        {
-            "id":431,
-            "fcol":"SQL database development",
-            "scol":"Database Implementation Manager",
-            "tcol":"SQLiteStudio"
-        },
-        {
-            "id":432,
-            "fcol":"Stored procedure development",
-            "scol":"Database Implementation Specialist",
-            "tcol":"Navicat"
-        },
-        {
-            "id":433,
-            "fcol":"Database triggers and events",
-            "scol":"Database Project Manager",
-            "tcol":"DBeaver"
-        },
-        {
-            "id":434,
-            "fcol":"Database backup and restore strategies",
-            "scol":"Database Solution Manager",
-            "tcol":"HeidiSQL"
-        },
-        {
-            "id":435,
-            "fcol":"Indexing strategies and analysis",
-            "scol":"Data Quality Analyst",
-            "tcol":"DataGrip"
-        },
-        {
-            "id":436,
-            "fcol":"Query optimization and performance analysis",
-            "scol":"Database Configuration Manager",
-            "tcol":"DbVisualizer"
-        },
-        {
-            "id":437,
-            "fcol":"Database upgrade and migration planning",
-            "scol":"Database Release Manager",
-            "tcol":"RazorSQL"
-        },
-        {
-            "id":438,
-            "fcol":null,
-            "scol":"Data Governance Specialist",
-            "tcol":"SQLPro for Postgres"
-        },
-        {
-            "id":439,
-            "fcol":null,
-            "scol":"Database Backup and Recovery Specialist",
-            "tcol":"Sequel Pro"
-        },
-        {
-            "id":440,
-            "fcol":null,
-            "scol":"Database Backup Administrator",
-            "tcol":"Models:"
-        },
-        {
-            "id":441,
-            "fcol":null,
-            "scol":"Database Backup Analyst",
-            "tcol":"Relational model"
-        },
-        {
-            "id":442,
-            "fcol":null,
-            "scol":"Data Security Specialist",
-            "tcol":"Hierarchical model"
-        },
-        {
-            "id":443,
-            "fcol":null,
-            "scol":"Database Optimization Specialist",
-            "tcol":"Network model"
-        },
-        {
-            "id":444,
-            "fcol":null,
-            "scol":"Database Deployment Specialist",
-            "tcol":"Object-oriented model"
-        },
-        {
-            "id":445,
-            "fcol":null,
-            "scol":"Business Intelligence Developer",
-            "tcol":"Entity-relationship model"
-        },
-        {
-            "id":446,
-            "fcol":null,
-            "scol":"Big Data Engineer",
-            "tcol":"Dimensional model"
-        },
-        {
-            "id":447,
-            "fcol":null,
-            "scol":"Database Marketing Analyst",
-            "tcol":"Document model"
-        },
-        {
-            "id":448,
-            "fcol":null,
-            "scol":"Database Sales Analyst",
-            "tcol":"Graph model"
-        },
-        {
-            "id":449,
-            "fcol":null,
-            "scol":null,
-            "tcol":"KeyValue model"
-        },
-        {
-            "id":450,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Column-family model"
-        },
-        {
-            "id":451,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Frameworks:"
-        },
-        {
-            "id":452,
-            "fcol":null,
-            "scol":null,
-            "tcol":".NET Entity Framework"
-        },
-        {
-            "id":453,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Spring Framework"
-        },
-        {
-            "id":454,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Laravel"
-        },
-        {
-            "id":455,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Express.js"
-        },
-        {
-            "id":456,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Meteor"
-        },
-    
-        {
-            "id":457,
-            "fcol":null,
-            "scol":null,
-            "tcol":"MEAN stack"
-        },
-        {
-            "id":458,
-            "fcol":"<h3><b>User Interface</b></h3>",
-            "scol":"<h3><b>User Interface</b></h3>",
-            "tcol":"<h3><b>User Interface</b></h3>"
-        },
-        {
-            "id":459,
-            "fcol":"UX Research",
-            "scol":"User Interface Designer",
-            "tcol":"Adobe XD"
-        },
-        {
-            "id":460,
-            "fcol":"Interaction Design",
-            "scol":"User Experience Designer",
-            "tcol":"Figma"
-        },
-        {
-            "id":461,
-            "fcol":"Visual Design",
-            "scol":"Interaction Designer",
-            "tcol":"Sketch"
-        },
-        {
-            "id":462,
-            "fcol":"Accessibility Design",
-            "scol":"Visual Designer",
-            "tcol":"InVision"
-        },
-        {
-            "id":463,
-            "fcol":"User Testing",
-            "scol":"User Researcher",
-            "tcol":"Axure"
-        },
-        {
-            "id":464,
-            "fcol":"Motion Design",
-            "scol":"Information Architect",
-            "tcol":"Balsamiq"
-        },
-        {
-            "id":465,
-            "fcol":"Branding",
-            "scol":"UI Engineer",
-            "tcol":"Proto.io"
-        },
-        {
-            "id":466,
-            "fcol":"Copywriting",
-            "scol":"Product Designer",
-            "tcol":"Principle"
-        },
-        {
-            "id":467,
-            "fcol":"Wireframing",
-            "scol":"Design Technologist",
-            "tcol":"Marvel App"
-        },
-        {
-            "id":468,
-            "fcol":"UI Design",
-            "scol":"Mobile Designer",
-            "tcol":"Flinto"
-        },
-        {
-            "id":469,
-            "fcol":"Cross-platform Design",
-            "scol":"Graphic Designer",
-            "tcol":"Origami Studio"
-        },
-        {
-            "id":470,
-            "fcol":"Website Design",
-            "scol":"UI Designer/Developer",
-            "tcol":"Justinmind"
-        },
-        {
-            "id":471,
-            "fcol":"Web Application Design",
-            "scol":"UI Animator",
-            "tcol":"Zeplin"
-        },
-        {
-            "id":472,
-            "fcol":"E-commerce Design",
-            "scol":"UI Artist",
-            "tcol":"UXPin"
-        },
-        {
-            "id":473,
-            "fcol":"Landing Page Design",
-            "scol":"UI/UX Lead",
-            "tcol":"Webflow"
-        },
-        {
-            "id":474,
-            "fcol":"Email Design",
-            "scol":null,
-            "tcol":"Canva"
-        },
-        {
-            "id":475,
-            "fcol":"Illustration Design",
-            "scol":null,
-            "tcol":"Whimsical"
-        },
-        {
-            "id":476,
-            "fcol":"Visual Design for Social Media",
-            "scol":null,
-            "tcol":"Moqups"
-        },
-        {
-            "id":477,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Lucidchart"
-        },
-        {
-            "id":478,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Gravit Designer"
-        },
-        {
-            "id":479,
-            "fcol":null,
-            "scol":null,
-            "tcol":"ProtoPie"
-        },
-        {
-            "id":480,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Adobe Photoshop"
-        },
-        {
-            "id":481,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Adobe Illustrator"
-        },
-        {
-            "id":482,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Adobe Illustrator"
-        },
-        {
-            "id":483,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Blender"
-        },
-        {
-            "id":484,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Tools:"
-        },
-        {
-            "id":485,
-            "fcol":null,
-            "scol":null,
-            "tcol":"User testing tools"
-        },
-        {
-            "id":486,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Heat mapping tools"
-        },
-        {
-            "id":487,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Analytics tools"
-        },
-        {
-            "id":488,
-            "fcol":null,
-            "scol":null,
-            "tcol":"Wireframing tools"
-        },
+        "id":413,
+        "fcol":"<h3><b>Database Development</b></h3>",
+        "scol":"<h3><b>Database Development</b></h3>",
+        "tcol":"<h3><b>Database Development</b></h3>"
+    },
+    {
+        "id":414,
+        "fcol":"Database design and modeling",
+        "scol":"Database Analyst",
+        "tcol":"Software:"
+    },
+    {
+        "id":415,
+        "fcol":"Database administration and maintenance",
+        "scol":"Data Warehouse Specialist",
+        "tcol":"Oracle Database"
+    },
+    {
+        "id":416,
+        "fcol":"Database optimization and tuning",
+        "scol":"Database Manager",
+        "tcol":"Microsoft SQL Server"
+    },
+    {
+        "id":417,
+        "fcol":"Data backup and recovery",
+        "scol":"Database Programmer",
+        "tcol":"IBM DB2"
+    },
+    {
+        "id":418,
+        "fcol":"Data migration and conversion",
+        "scol":"Database Coordinator",
+        "tcol":"SQLite"
+    },
+    {
+        "id":419,
+        "fcol":"Database security management",
+        "scol":"Database Consultant",
+        "tcol":"MariaDB"
+    },
+    {
+        "id":420,
+        "fcol":"Data warehousing and business intelligence",
+        "scol":"Database Tester",
+        "tcol":"Amazon Aurora"
+    },
+    {
+        "id":421,
+        "fcol":"Database performance monitoring and analysis",
+        "scol":"Database Security Administrator",
+        "tcol":"Redis"
+    },
+    {
+        "id":422,
+        "fcol":"Database replication and synchronization",
+        "scol":"Database Trainer",
+        "tcol":"Couchbase"
+    },
+    {
+        "id":423,
+        "fcol":"Cloud database management",
+        "scol":"Database Specialist",
+        "tcol":"Neo4j"
+    },
+    {
+        "id":424,
+        "fcol":"Database testing and quality assurance",
+        "scol":"Database Performance Analyst",
+        "tcol":"Tools:"
+    },
+    {
+        "id":425,
+        "fcol":"Database performance benchmarking",
+        "scol":"Database Technical Lead",
+        "tcol":"Toad for Oracle"
+    },
+    {
+        "id":426,
+        "fcol":"Database capacity planning and scaling",
+        "scol":"Database Team Lead",
+        "tcol":"SQL Server Management Studio"
+    },
+    {
+        "id":427,
+        "fcol":"Database architecture and integration",
+        "scol":"Database Support Analyst",
+        "tcol":"MySQL Workbench"
+    },
+    {
+        "id":428,
+        "fcol":"Database documentation and training",
+        "scol":"Database Operations Manager",
+        "tcol":"pgAdmin"
+    },
+    {
+        "id":429,
+        "fcol":"Database monitoring and reporting",
+        "scol":"Database Solutions Architect",
+        "tcol":"Robomongo"
+    },
+    {
+        "id":430,
+        "fcol":"NoSQL database development",
+        "scol":"Database Integration Specialist",
+        "tcol":"IBM Data Studio"
+    },
+    {
+        "id":431,
+        "fcol":"SQL database development",
+        "scol":"Database Implementation Manager",
+        "tcol":"SQLiteStudio"
+    },
+    {
+        "id":432,
+        "fcol":"Stored procedure development",
+        "scol":"Database Implementation Specialist",
+        "tcol":"Navicat"
+    },
+    {
+        "id":433,
+        "fcol":"Database triggers and events",
+        "scol":"Database Project Manager",
+        "tcol":"DBeaver"
+    },
+    {
+        "id":434,
+        "fcol":"Database backup and restore strategies",
+        "scol":"Database Solution Manager",
+        "tcol":"HeidiSQL"
+    },
+    {
+        "id":435,
+        "fcol":"Indexing strategies and analysis",
+        "scol":"Data Quality Analyst",
+        "tcol":"DataGrip"
+    },
+    {
+        "id":436,
+        "fcol":"Query optimization and performance analysis",
+        "scol":"Database Configuration Manager",
+        "tcol":"DbVisualizer"
+    },
+    {
+        "id":437,
+        "fcol":"Database upgrade and migration planning",
+        "scol":"Database Release Manager",
+        "tcol":"RazorSQL"
+    },
+    {
+        "id":438,
+        "fcol":"",
+        "scol":"Data Governance Specialist",
+        "tcol":"SQLPro for Postgres"
+    },
+    {
+        "id":439,
+        "fcol":"",
+        "scol":"Database Backup and Recovery Specialist",
+        "tcol":"Sequel Pro"
+    },
+    {
+        "id":440,
+        "fcol":"",
+        "scol":"Database Backup Administrator",
+        "tcol":"Models:"
+    },
+    {
+        "id":441,
+        "fcol":"",
+        "scol":"Database Backup Analyst",
+        "tcol":"Relational model"
+    },
+    {
+        "id":442,
+        "fcol":"",
+        "scol":"Data Security Specialist",
+        "tcol":"Hierarchical model"
+    },
+    {
+        "id":443,
+        "fcol":"",
+        "scol":"Database Optimization Specialist",
+        "tcol":"Network model"
+    },
+    {
+        "id":444,
+        "fcol":"",
+        "scol":"Database Deployment Specialist",
+        "tcol":"Object-oriented model"
+    },
+    {
+        "id":445,
+        "fcol":"",
+        "scol":"Business Intelligence Developer",
+        "tcol":"Entity-relationship model"
+    },
+    {
+        "id":446,
+        "fcol":"",
+        "scol":"Big Data Engineer",
+        "tcol":"Dimensional model"
+    },
+    {
+        "id":447,
+        "fcol":"",
+        "scol":"Database Marketing Analyst",
+        "tcol":"Document model"
+    },
+    {
+        "id":448,
+        "fcol":"",
+        "scol":"Database Sales Analyst",
+        "tcol":"Graph model"
+    },
+    {
+        "id":449,
+        "fcol":"",
+        "scol":"",
+        "tcol":"KeyValue model"
+    },
+    {
+        "id":450,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Column-family model"
+    },
+    {
+        "id":451,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Frameworks:"
+    },
+    {
+        "id":452,
+        "fcol":"",
+        "scol":"",
+        "tcol":".NET Entity Framework"
+    },
+    {
+        "id":453,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Spring Framework"
+    },
+    {
+        "id":454,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Laravel"
+    },
+    {
+        "id":455,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Express.js"
+    },
+    {
+        "id":456,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Meteor"
+    },
+    {
+        "id":457,
+        "fcol":"",
+        "scol":"",
+        "tcol":"MEAN stack"
+    },
+    {
+        "id":458,
+        "fcol":"<h3><b>User Interface</b></h3>",
+        "scol":"<h3><b>User Interface</b></h3>",
+        "tcol":"<h3><b>User Interface</b></h3>"
+    },
+    {
+        "id":459,
+        "fcol":"UX Research",
+        "scol":"User Interface Designer",
+        "tcol":"Adobe XD"
+    },
+    {
+        "id":460,
+        "fcol":"Interaction Design",
+        "scol":"User Experience Designer",
+        "tcol":"Figma"
+    },
+    {
+        "id":461,
+        "fcol":"Visual Design",
+        "scol":"Interaction Designer",
+        "tcol":"Sketch"
+    },
+    {
+        "id":462,
+        "fcol":"Accessibility Design",
+        "scol":"Visual Designer",
+        "tcol":"InVision"
+    },
+    {
+        "id":463,
+        "fcol":"User Testing",
+        "scol":"User Researcher",
+        "tcol":"Axure"
+    },
+    {
+        "id":464,
+        "fcol":"Motion Design",
+        "scol":"Information Architect",
+        "tcol":"Balsamiq"
+    },
+    {
+        "id":465,
+        "fcol":"Branding",
+        "scol":"UI Engineer",
+        "tcol":"Proto.io"
+    },
+    {
+        "id":466,
+        "fcol":"Copywriting",
+        "scol":"Product Designer",
+        "tcol":"Principle"
+    },
+    {
+        "id":467,
+        "fcol":"Wireframing",
+        "scol":"Design Technologist",
+        "tcol":"Marvel App"
+    },
+    {
+        "id":468,
+        "fcol":"UI Design",
+        "scol":"Mobile Designer",
+        "tcol":"Flinto"
+    },
+    {
+        "id":469,
+        "fcol":"Cross-platform Design",
+        "scol":"Graphic Designer",
+        "tcol":"Origami Studio"
+    },
+    {
+        "id":470,
+        "fcol":"Website Design",
+        "scol":"UI Designer/Developer",
+        "tcol":"Justinmind"
+    },
+    {
+        "id":471,
+        "fcol":"Web Application Design",
+        "scol":"UI Animator",
+        "tcol":"Zeplin"
+    },
+    {
+        "id":472,
+        "fcol":"E-commerce Design",
+        "scol":"UI Artist",
+        "tcol":"UXPin"
+    },
+    {
+        "id":473,
+        "fcol":"Landing Page Design",
+        "scol":"UI/UX Lead",
+        "tcol":"Webflow"
+    },
+    {
+        "id":474,
+        "fcol":"Email Design",
+        "scol":"",
+        "tcol":"Canva"
+    },
+    {
+        "id":475,
+        "fcol":"Illustration Design",
+        "scol":"",
+        "tcol":"Whimsical"
+    },
+    {
+        "id":476,
+        "fcol":"Visual Design for Social Media",
+        "scol":"",
+        "tcol":"Moqups"
+    },
+    {
+        "id":477,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Lucidchart"
+    },
+    {
+        "id":478,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Gravit Designer"
+    },
+    {
+        "id":479,
+        "fcol":"",
+        "scol":"",
+        "tcol":"ProtoPie"
+    },
+    {
+        "id":480,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Adobe Photoshop"
+    },
+    {
+        "id":481,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Adobe Illustrator"
+    },
+    {
+        "id":482,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Adobe Illustrator"
+    },
+    {
+        "id":483,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Blender"
+    },
+    {
+        "id":484,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Tools:"
+    },
+    {
+        "id":485,
+        "fcol":"",
+        "scol":"",
+        "tcol":"User testing tools"
+    },
+    {
+        "id":486,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Heat mapping tools"
+    },
+    {
+        "id":487,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Analytics tools"
+    },
+    {
+        "id":488,
+        "fcol":"",
+        "scol":"",
+        "tcol":"Wireframing tools"
+    },
         {
             "id":489,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Collaboration tools"
         },
         {
             "id":490,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Color palette generators"
         },
         {
             "id":491,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Design asset management tools"
         },
         {
             "id":492,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"A/B testing tools"
         },
         {
             "id":493,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Front-end development tools"
         },
         {
             "id":494,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Responsive design testing tools"
         },
         {
             "id":495,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Typography tools"
         },
         {
             "id":496,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Icon libraries"
         },
         {
             "id":497,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Models:"
         },
         {
             "id":498,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"User models"
         },
         {
             "id":499,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Mental models"
         },
         {
             "id":500,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Conceptual models"
         },
         {
             "id":501,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Task models"
         },
         {
             "id":502,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Interaction models"
         },
         {
             "id":503,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Information models"
         },
         {
             "id":504,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Object models"
         },
         {
             "id":505,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Functional models"
         },
         {
             "id":506,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Data models"
         },
         {
             "id":507,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Decision models"
         },
         {
             "id":508,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Methodologies:"
         },
         {
             "id":509,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Human-centered design"
         },
         {
             "id":510,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Design thinking"
         },
         {
             "id":511,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Agile"
         },
         {
             "id":512,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Lean UX"
         },
         {
             "id":513,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Design sprints"
         },
         {
             "id":514,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Usability testing"
         },
         {
             "id":515,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Heuristic evaluation"
         },
         {
             "id":516,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Contextual inquiry"
         },
         {
             "id":517,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Card sorting"
         },
         {
             "id":518,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Prototyping"
         },
         {
             "id":519,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Persona creation"
         },
         {
             "id":520,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Information architecture"
         },
         {
             "id":521,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Content strategy"
         },
         {
             "id":522,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Design systems"
         },
         {
             "id":523,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Frameworks:"
         },
         {
             "id":524,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Material Design"
         },
         {
             "id":525,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Bootstrap"
         },
         {
             "id":526,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Foundation"
         },
         {
             "id":527,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Semantic UI"
         },
         {
             "id":528,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Bulma"
         },
         {
             "id":529,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Tailwind CSS"
         },
         {
             "id":530,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"UIKit"
         },
         {
             "id":531,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Ant Design"
         },
         {
             "id":532,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Fluent Design"
         },
         {
             "id":533,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Carbon Design System"
         },
         {
             "id":534,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Ionic"
         },
         {
             "id":535,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"React Native"
         },
         {
             "id":536,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Flutter"
         },
         {
             "id":537,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"jQuery UI"
         },
         {
             "id":538,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Angular Material"
         },
         {
             "id":539,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Vuetify"
         },
         {
             "id":540,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"PrimeNG"
         },
         {
             "id":541,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Shards"
         },
         {
             "id":542,
-            "fcol":null,
-            "scol":null,
+            "fcol":"",
+            "scol":"",
             "tcol":"Spectre.css"
      },
     {
@@ -3413,255 +3410,258 @@
     },
     {
         "id":564,
-        "fcol":null,
+        "fcol":"",
         "scol":"Cloud Governance Specialist",
         "tcol":"Grafana"
     },
     {
         "id":565,
-        "fcol":null,
+        "fcol":"",
         "scol":"Cloud Compliance Specialist",
         "tcol":"Tools:"
     },
     {
         "id":566,
-        "fcol":null,
+        "fcol":"",
         "scol":"Cloud Vendor Manager",
         "tcol":"Cloud management platforms"
     },
     {
         "id":567,
-        "fcol":null,
+        "fcol":"",
         "scol":"Cloud Monitoring Specialist",
         "tcol":"Cloud monitoring and management tools"
     },
     {
         "id":568,
-        "fcol":null,
+        "fcol":"",
         "scol":"Cloud Troubleshooting Specialist",
         "tcol":"Cloud backup and recovery tools"
     },
     {
         "id":569,
-        "fcol":null,
+        "fcol":"",
         "scol":"Cloud Performance Engineer",
         "tcol":"Cloud security tools"
     },
     {
         "id":570,
-        "fcol":null,
+        "fcol":"",
         "scol":"Cloud AI/ML Engineer",
         "tcol":"Cloud cost optimization tools"
     },
     {
         "id":571,
-        "fcol":null,
+        "fcol":"",
         "scol":"Cloud IoT Engineer",
         "tcol":"Cloud migration tools"
     },
     {
         "id":572,
-        "fcol":null,
+        "fcol":"",
         "scol":"Cloud Sales Representative",
         "tcol":"Cloud Sales Representative"
     },
     {
         "id":573,
-        "fcol":null,
+        "fcol":"",
         "scol":"Cloud Trainer/Educator",
         "tcol":"Cloud load balancers"
     },
     {
         "id":574,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud content delivery networks (CDNs)"
     },
     {
         "id":575,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud databases"
     },
     {
         "id":576,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud identity and access management (IAM) tools"
     },
     {
         "id":577,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud development tools"
     },
     {
         "id":578,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud testing tools"
     },
     {
         "id":579,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud compliance tools"
     },
     {
         "id":580,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud analytics tools"
     },
     {
         "id":581,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud networking tools"
     },
     {
         "id":582,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud networking tools"
     },
     {
         "id":583,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud collaboration tools"
     },
     {
         "id":584,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Models::"
     },
     {
         "id":585,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud computing service models (IaaS, PaaS, SaaS)"
     },
     {
         "id":586,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud deployment models (Public, Private, Hybrid, Multi-cloud)"
     },
     {
         "id":587,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Cloud security models (Shared Responsibility Model, Zero Trust Model)"
     },
     {
         "id":588,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Methodologies:"
     },
     {
         "id":589,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"DevOps"
     },
     {
         "id":590,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Agile"
     },
     {
         "id":591,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Continuous Integration and Continuous Deployment (CI/CD)"
     },
     {
         "id":592,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Lean"
     },
     {
         "id":593,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Six Sigma"
     },
     {
         "id":594,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Waterfall"
     },
     {
         "id":595,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"ITIL (Information Technology Infrastructure Library)"
     },
     {
         "id":596,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Frameworks:"
     },
     {
         "id":597,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"AWS Well-Architected Framework"
     },
     {
         "id":598,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Microsoft Azure Architecture Center"
     },
     {
         "id":599,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"GCP Architecture Framework"
     },
     {
         "id":600,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Open Group Architecture Framework (TOGAF)"
     },
     {
         "id":601,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Zachman Framework"
     },
     {
         "id":602,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"Federal Enterprise Architecture Framework (FEAF)"
     },
     {
         "id":603,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"DoDAF (Department of Defense Architecture Framework)"
     },
     {
         "id":604,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"ArchiMate"
     },
     {
         "id":605,
-        "fcol":null,
-        "scol":null,
+        "fcol":"",
+        "scol":"",
         "tcol":"BIAN (Banking Industry Architecture Network) Framework"
     }
+    
+    
+    
     ]
     
