@@ -1261,19 +1261,19 @@
     {
         "id":211,
         "fcol":"Payment gateway integrations",
-        "scol":null,
+        "scol":"",
         "tcol":"Azure SQL"
     },
     {
         "id":212,
         "fcol":"Chatbot development",
-        "scol":null,
+        "scol":"",
         "tcol":"Google Cloud SQL"
     },
     {
         "id":213,
         "fcol":"Voice assistant development",
-        "scol":null,
+        "scol":"",
         "tcol":"MongoDB Atlas"
     },
     {
