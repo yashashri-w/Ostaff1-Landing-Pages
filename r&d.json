@@ -906,6 +906,7 @@
     {
         "id":152,
         "fcol":"Structured Authoring",
+        "scol":"",
         "tcol":"Agile model (Scrum, Kanban)"
     },
     {
@@ -1260,6 +1261,7 @@
     {
         "id":211,
         "fcol":"Payment gateway integrations",
+        "scol":"",
         "tcol":"Azure SQL"
     },
     {
