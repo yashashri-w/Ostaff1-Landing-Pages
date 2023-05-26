@@ -1,9 +1,9 @@
 [
     {
         "id":1,
-        "fcol":"<h3><b>Software & Application Development</b></h3>",
-        "scol":"<h3><b>Software & Application Development</b></h3>",
-        "tcol":"<h3><b>Platform/OS</b></h3>"
+        "fcol":"<b>Software & Application Development</b>",
+        "scol":"<b>Software & Application Development</b>",
+        "tcol":"<b>Platform/OS</b>"
     },
     {
         "id":2,
@@ -906,7 +906,6 @@
     {
         "id":152,
         "fcol":"Structured Authoring",
-        "scol":"",
         "tcol":"Agile model (Scrum, Kanban)"
     },
     {
@@ -1261,7 +1260,6 @@
     {
         "id":211,
         "fcol":"Payment gateway integrations",
-        "scol":"",
         "tcol":"Azure SQL"
     },
     {
