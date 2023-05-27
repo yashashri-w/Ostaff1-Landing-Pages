@@ -263,7 +263,7 @@
     },
     {
         "id":44,
-        "fcol":"<h3><b>Big Data</b></h3>",
+        "fcol":"<b>Big Data</b>",
         "scol":"ERP Analyst",
         "tcol":"ERP Analyst"
     },
@@ -281,7 +281,7 @@
     },
     {
         "id":47,
-        "fcol":"<h3><b>Distributed Systems</b></h3>",
+        "fcol":"<b>Distributed Systems</b>",
         "scol":"Flash Developer",
         "tcol":"Ruby"
     },
@@ -353,7 +353,7 @@
     },
     {
         "id":59,
-        "fcol":"<h3><b>Mobile</b></h3>",
+        "fcol":"<b>Mobile</b>",
         "scol":"Manager - Delivery",
         "tcol":"XPATH"
     },
@@ -455,7 +455,7 @@
     },
     {
         "id":77,
-        "fcol":"<h3><b>Web Development</b></h3>",
+        "fcol":"<b>Web Development</b>",
         "scol":"Perl Developer",
         "tcol":"Sybase"
     },
@@ -617,7 +617,7 @@
     },
     {
         "id":104,
-        "fcol":"<h3><b>ERP</b></h3>",
+        "fcol":"<b>ERP</b>",
         "scol":"Software Quality Assurance",
         "tcol":"IBM WebSphere"
     },
@@ -671,7 +671,7 @@
     },
     {
         "id":113,
-        "fcol":"<h3><b>Data Warehousing/Business Intelligence</b></h3>",
+        "fcol":"<b>Data Warehousing/Business Intelligence</b>",
         "scol":"Team Lead",
         "tcol":"WinRunner"
     },
@@ -749,7 +749,7 @@
     },
     {
         "id":126,
-        "fcol":"<h3><b>Frameworks</b></h3>",
+        "fcol":"<b>Frameworks</b>",
         "scol":"Web Developer SDE2",
         "tcol":"DotNetNuke"
     },
@@ -785,7 +785,7 @@
     },
     {
         "id":132,
-        "fcol":"<h3><b>Application/Web Servers</b></h3>",
+        "fcol":"<b>Application/Web Servers</b>",
         "scol":"Security Engineer",
         "tcol":"Paradigm Plus"
     },
@@ -833,7 +833,7 @@
     },
     {
         "id":140,
-        "fcol":"<h3><b>Content Management</b></h3>",
+        "fcol":"<b>Content Management</b>",
         "scol":"Front-end Developer",
         "tcol":"VMVC"
     },
@@ -923,7 +923,7 @@
     },
     {
         "id":155,
-        "fcol":"<h3><b>Requirements/Design</b></h3>",
+        "fcol":"<b>Requirements/Design</b>",
         "scol":"Software Trainer",
         "tcol":"Prototype model"
     },
@@ -1056,7 +1056,7 @@
     },
     {
         "id":177,
-        "fcol":"<h3><b>Configuration Management</b></h3>",
+        "fcol":"<b>Configuration Management</b>",
         "scol":"Cloud Business Analyst",
         "tcol":"Flask (Python)"
     },
@@ -1110,7 +1110,7 @@
     },
     {
         "id":186,
-        "fcol":"<h3><b>Reports</b></h3>",
+        "fcol":"<b>Reports</b>",
         "scol":"Vue.js Developer",
         "tcol":"Spring"
     },
@@ -1386,7 +1386,7 @@
     },
     {
         "id":232,
-        "fcol":"<h3><b>Platform/OS<b></h3>",
+        "fcol":"<b>Platform/OS<b>",
         "scol":"",
         "tcol":"<b>Security Models</b>"
     },
@@ -1966,9 +1966,9 @@
     },
     {
         "id":326,
-        "fcol":"<h3><B>Application Integration</B></h3>",
-        "scol":"<h3><B>Application Integration</B></h3>",
-        "tcol":"<h3><B>Application Integration</B></h3>"
+        "fcol":"<b>Application Integration</b>",
+        "scol":"<b>Application Integration</b>",
+        "tcol":"<b>Application Integration</b>"
      
     },
     {
@@ -2184,9 +2184,9 @@
     },
     {
         "id":361,
-        "fcol":"<h3><B>Full Stack Development</B></h3>",
-        "scol":"<h3><B>Full Stack Development</B></h3>",
-        "tcol":"<h3><B>Full Stack Development</B></h3>"
+        "fcol":"<b>Full Stack Development</b>",
+        "scol":"<b>Full Stack Development</b>",
+        "tcol":"<b>Full Stack Development</b>"
        
     },
     {
@@ -2504,9 +2504,9 @@
     },
     {
         "id":413,
-        "fcol":"<h3><b>Database Development</b></h3>",
-        "scol":"<h3><b>Database Development</b></h3>",
-        "tcol":"<h3><b>Database Development</b></h3>"
+        "fcol":"<b>Database Development</b>",
+        "scol":"<b>Database Development</b>",
+        "tcol":"<b>Database Development</b>"
     },
     {
         "id":414,
@@ -2774,9 +2774,9 @@
     },
     {
         "id":458,
-        "fcol":"<h3><b>User Interface</b></h3>",
-        "scol":"<h3><b>User Interface</b></h3>",
-        "tcol":"<h3><b>User Interface</b></h3>"
+        "fcol":"<b>User Interface</b>",
+        "scol":"<b>User Interface</b>",
+        "tcol":"<b>User Interface</b>"
     },
     {
         "id":459,
@@ -3284,9 +3284,9 @@
      },
     {
         "id":543,
-        "fcol":"<h3><B>Cloud Implementation</B></h3>",
-        "scol":"<h3><B>Cloud Implementation</B></h3>",
-        "tcol":"<h3><B>Cloud Implementation</B></h3>"
+        "fcol":"<b>Cloud Implementation</b>",
+        "scol":"<b>Cloud Implementation</b>",
+        "tcol":"<b>Cloud Implementation</b>"
     },
     {
         "id":544,
